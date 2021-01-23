@@ -3,4 +3,4 @@
 Usefull Merkle Tree Example
 
 # Please visit my blog post in medium
-(https://onuratakan.medium.com/what-is-the-merkle-tree-with-python-example-cbb4513b8ad0)
+https://onuratakan.medium.com/what-is-the-merkle-tree-with-python-example-cbb4513b8ad0
